@@ -1,0 +1,22 @@
+# Ignore data folder
+107_11_pcd_float32bin/
+107_11_pcd_float32bin_withoutCm/
+107_11_uint32label/
+107_11_uint32label_withoutCm/
+clip_rino_107_float32bin/
+clip_rino_107_float32bin_10/
+clip_rino_107_float32bin_removeCM/
+clip_rino_107_float32bin_removeCM_10/
+clip_rino_107_uint32label/
+clip_rino_107_uint32label_10/
+clip_rino_107_uint32label_removeCM/
+clip_rino_107_uint32label_removeCM_10/
+kneighborResult/
+kneighborResult_10/
+ssc_pred_ourLabel/
+ssc_pred_ourLabel_10/
+
+
+# Ignore any other files or folders
+*.log
+*.tmp
